@@ -1,0 +1,14 @@
+requests
+requests[socks]
+requests-cache
+pandas
+geopandas
+shapely
+pyproj
+fsspec
+tqdm
+click
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+python-dotenv
